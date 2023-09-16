@@ -1,0 +1,108 @@
+---
+object: card
+id: ef20bb8a-9aa1-4323-a047-21ecbe57d885
+oracle_id: 0c93c418-e10b-4a6d-bddb-3b786bb6a928
+multiverse_ids: []
+tcgplayer_id: 79650
+cardmarket_id: 14946
+name: Phyrexian War Beast
+lang: en
+released_at: '2001-12-01'
+uri: https://api.scryfall.com/cards/ef20bb8a-9aa1-4323-a047-21ecbe57d885
+scryfall_uri: https://scryfall.com/card/dkm/37a/phyrexian-war-beast?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/f/ef20bb8a-9aa1-4323-a047-21ecbe57d885.jpg?1562951775
+  normal: https://cards.scryfall.io/normal/front/e/f/ef20bb8a-9aa1-4323-a047-21ecbe57d885.jpg?1562951775
+  large: https://cards.scryfall.io/large/front/e/f/ef20bb8a-9aa1-4323-a047-21ecbe57d885.jpg?1562951775
+  png: https://cards.scryfall.io/png/front/e/f/ef20bb8a-9aa1-4323-a047-21ecbe57d885.png?1562951775
+  art_crop: https://cards.scryfall.io/art_crop/front/e/f/ef20bb8a-9aa1-4323-a047-21ecbe57d885.jpg?1562951775
+  border_crop: https://cards.scryfall.io/border_crop/front/e/f/ef20bb8a-9aa1-4323-a047-21ecbe57d885.jpg?1562951775
+mana_cost: "{3}"
+cmc: 3.0
+type_line: Artifact Creature — Phyrexian Beast
+oracle_text: When Phyrexian War Beast leaves the battlefield, sacrifice a land and
+  Phyrexian War Beast deals 1 damage to you.
+power: '3'
+toughness: '4'
+colors: []
+color_identity: []
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: cfcec75d-481b-4b24-bcaa-a7185cf32e15
+set: dkm
+set_name: Deckmasters
+set_type: box
+set_uri: https://api.scryfall.com/sets/cfcec75d-481b-4b24-bcaa-a7185cf32e15
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Adkm&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/dkm?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/ef20bb8a-9aa1-4323-a047-21ecbe57d885/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0c93c418-e10b-4a6d-bddb-3b786bb6a928&unique=prints
+collector_number: 37a
+digital: false
+rarity: common
+flavor_text: |-
+  "Deal with the spawn of Phyrexia cautiously; only with time may we control them."
+  —Arcum Dagsson, Soldevi Machinist
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Bill Sienkiewicz
+artist_ids:
+- c1a9ecfb-1440-4579-adfb-bd10095dd690
+illustration_id: 6d855ef9-583b-4314-a4e0-7b77a26a96c4
+border_color: white
+frame: '1997'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 19901
+penny_rank: 14966
+prices:
+  usd: '0.14'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.15'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Phyrexian+War+Beast&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Phyrexian+War+Beast&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Phyrexian+War+Beast
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/79650?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Phyrexian+War+Beast&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Phyrexian+War+Beast&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
